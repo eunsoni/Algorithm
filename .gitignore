@@ -1,0 +1,39 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.sts4-cache
+bin/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Java 클래스 파일
+*.class
+
+# Mac OS
+.DS_Store
+
+# 환경 파일
+*.env
+
+# 로그 파일
+*.log
+
+# 기타 임시 파일
+*.swp
+*~
